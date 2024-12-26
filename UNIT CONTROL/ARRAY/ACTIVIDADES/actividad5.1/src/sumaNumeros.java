@@ -22,6 +22,5 @@ public class sumaNumeros {
             }
             System.out.println("La suma de los valores aleatoreos es " + suma);
         }
-
     }
 }
